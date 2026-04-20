@@ -23,4 +23,4 @@ Most repositories are currently private while the project is being built. The ar
 
 ---
 
-*The Longhand Archive is a project by [Andrew Allen](https://www.linkedin.com/in/andrew-allen-cdto/), undertaken in a personal capacity.*
+*The Longhand Archive is a project by [Andrew Allen](https://www.linkedin.com/in/andrewallen), undertaken in a personal capacity.*
