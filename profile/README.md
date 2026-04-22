@@ -16,12 +16,10 @@ This is a personal project. It is not affiliated with or endorsed by any UK gove
 
 **Repositories**
 
-- `platform` — the public analytical site and its supporting services (in development)
-- `civilservicejobs-collector` — the first collector, archiving UK Civil Service Jobs
-- `archive-contract` — the specification of what collectors produce and platforms consume
-- `governance` — cross-cutting decisions and operating principles
-
-Most repositories are currently private while the project is being built. The archive contract and governance records will be made public as they stabilise.
+- [`governance`](https://github.com/longhandarchive/governance) — cross-cutting decisions and operating principles
+- [`archive-contract`](https://github.com/longhandarchive/archive-contract) — the specification of what collectors produce and platforms consume
+- `platform` — the public analytical site and its supporting services *(private, in development)*
+- `civilservicejobs-collector` — the first collector, archiving UK Civil Service Jobs *(private)*
 
 ---
 
