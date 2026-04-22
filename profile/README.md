@@ -1,14 +1,16 @@
 # The Longhand Archive
 
-An independent archive and analytical surface for UK public sector data.
+An open source project that archives UK public sector data and builds intelligence on top of it.
 
 Public information about UK government is everywhere and nowhere. Departments publish jobs, spending, consultations, and statements across dozens of sites, most of which keep only the current state and discard the past. What is lost is not the information itself, but the shape of how it changed — and that shape is often where the interesting story lives.
 
-The Longhand Archive is a deliberate, by-hand record of public sector data over time. Not a scraper. Not a dashboard. An archive, with the discipline of archival practice: provenance, versioning, immutability of the record, and a clear separation between what was captured and what is made of it.
+The Longhand Archive captures that shape. It preserves public sector data over time with the discipline of archival practice — provenance, versioning, immutability of the record — and then derives analytical views that surface patterns, trends, and intelligence that would not be visible from a snapshot of the present alone.
 
 The first collector is live and running against the UK Civil Service Jobs site, building a historical record of every vacancy advertised — including roles that have closed, been withdrawn, or quietly disappeared from the live site. A public analytical surface on top of that archive is in development. Further collectors for other public sector datasets will follow.
 
-This is a personal project, built in public. It is not affiliated with or endorsed by any UK government department. Data used is published under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+The project is also a practical demonstration of building a substantive system in the open using AI-assisted tools. The architecture, decisions, and working process are documented as they happen — not polished after the fact. The intent is that the reasoning is as useful as the artefact.
+
+This is a personal project, built in public. It is not affiliated with or endorsed by any UK government department or any other organisation. Data used is published under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
 ---
 
