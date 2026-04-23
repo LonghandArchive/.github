@@ -8,8 +8,6 @@ Most visitors do not need to read anything here. The content that matters is ren
 
 **`profile/README.md`** — the content rendered on the organisation page at `github.com/longhandarchive`. This is the public-facing introduction to The Longhand Archive.
 
-**`docs/`** — the source for the project's [development site](https://longhandarchive.github.io), built with Jekyll via GitHub Pages. This is where the dev story lives: how the system is designed, what decisions were made, and what was learned along the way.
-
 ## Licence
 
 The content of this repository is available under [Creative Commons Attribution 4.0 International](./LICENSE).
