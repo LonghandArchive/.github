@@ -14,10 +14,15 @@ This is a personal project. It is not affiliated with or endorsed by any UK gove
 
 ---
 
+**Building in public**
+
+The project documents its architecture, decisions, and working method as they happen. The development site at [longhandarchive.github.io](https://longhandarchive.github.io) is where that story lives.
+
 **Repositories**
 
 - [`governance`](https://github.com/longhandarchive/governance) — cross-cutting decisions and operating principles
 - [`archive-contract`](https://github.com/longhandarchive/archive-contract) — the specification of what collectors produce and platforms consume
+- [`longhandarchive.github.io`](https://github.com/longhandarchive/longhandarchive.github.io) — the development site source
 - `platform` — the public analytical site and its supporting services *(private, in development)*
 - `civilservicejobs-collector` — the first collector, archiving UK Civil Service Jobs *(private)*
 
